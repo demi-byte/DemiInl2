@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="SE"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/demi/Desktop/java_yrgo/utvecklingsverktyg/inlamning2maven/target/surefire/surefirebooter5255088452913455647.jar /Users/demi/Desktop/java_yrgo/utvecklingsverktyg/inlamning2maven/target/surefire 2024-02-05T21-34-59_544-jvmRun1 surefire2096066410846637810tmp surefire_0513044458000804738tmp"/>
+    <property name="sun.java.command" value="/Users/demi/Desktop/java_yrgo/utvecklingsverktyg/inlamning2maven/target/surefire/surefirebooter410365645718509727.jar /Users/demi/Desktop/java_yrgo/utvecklingsverktyg/inlamning2maven/target/surefire 2024-05-28T10-35-35_130-jvmRun1 surefire3508534949283739496tmp surefire_015650558825895252325tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/demi/Desktop/java_yrgo/utvecklingsverktyg/inlamning2maven/target/test-classes:/Users/demi/Desktop/java_yrgo/utvecklingsverktyg/inlamning2maven/target/classes:/Users/demi/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.9.1/junit-jupiter-api-5.9.1.jar:/Users/demi/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/Users/demi/.m2/repository/org/junit/platform/junit-platform-commons/1.9.1/junit-platform-commons-1.9.1.jar:/Users/demi/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/Users/demi/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.9.1/junit-jupiter-engine-5.9.1.jar:/Users/demi/.m2/repository/org/junit/platform/junit-platform-engine/1.9.1/junit-platform-engine-1.9.1.jar:/Users/demi/.m2/repository/org/junit/jupiter/junit-jupiter/5.8.1/junit-jupiter-5.8.1.jar:/Users/demi/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.8.1/junit-jupiter-params-5.8.1.jar:"/>
@@ -28,13 +28,13 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
-    <property name="surefire.real.class.path" value="/Users/demi/Desktop/java_yrgo/utvecklingsverktyg/inlamning2maven/target/surefire/surefirebooter5255088452913455647.jar"/>
+    <property name="surefire.real.class.path" value="/Users/demi/Desktop/java_yrgo/utvecklingsverktyg/inlamning2maven/target/surefire/surefirebooter410365645718509727.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="17.0.8.1+1"/>
     <property name="user.name" value="demi"/>
     <property name="path.separator" value=":"/>
-    <property name="os.version" value="14.2.1"/>
+    <property name="os.version" value="14.4.1"/>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="file.encoding" value="UTF-8"/>
     <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
